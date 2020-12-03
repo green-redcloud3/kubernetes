@@ -1,0 +1,5 @@
+kind: Namespace
+metadata:
+  labels:
+    istio-injection: disabled
+  name: dave
