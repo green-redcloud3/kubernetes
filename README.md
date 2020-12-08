@@ -1,3 +1,12 @@
+# START YOUR WORKSTATION
+
+```
+docker run --rm --name dip-workstation -it -v c:\PROJECTS\dip-docs\platform:/platform dip:latest bash
+```
+
+Once you are in your container set your aws credentials
+
+
 # DAVE
 
 ```
